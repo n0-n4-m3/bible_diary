@@ -1,0 +1,29 @@
+{
+  "bibleVersions": [
+    {
+      "id": "400",
+      "language": "rus"
+    },
+    {
+      "id": "143",
+      "language": "rus"
+    },
+    {
+      "id": 313,
+      "language": "rus"
+    },
+    {
+      "id": "201",
+      "language": "rus"
+    }
+  ],
+  "linkPreviewRead": true,
+  "linkPreviewLive": true,
+  "linkTrigger": "@",
+  "embedTrigger": ">",
+  "footnoteTrigger": "(?<!\\[)\\^",
+  "selectedBooksLanguages": [
+    "Russian"
+  ],
+  "calloutName": "Bible"
+}
