@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +181,11 @@
   },
   "active": "9e975d3a102ac5dd",
   "lastOpenFiles": [
-    "checklist_bible.md",
-<<<<<<< Updated upstream
-=======
-    "README.md",
+    "Media/download.png",
     "OHZ.md",
->>>>>>> Stashed changes
-    "Notes/Бытие 13 глава.md",
     "README.md",
+    "checklist_bible.md",
+    "Notes/Бытие 13 глава.md",
     "ОХЖ.md",
     "Media/git_sync_320.mp4",
     "Media/git_sync_480.mp4",
