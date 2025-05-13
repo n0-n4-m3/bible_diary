@@ -30,5 +30,4 @@
 ### Синхронизация и сохранение изменений
 
 Метод синхронизации я взял из ролика ниже (с таймкодом) в котором подробно рассказывается о настройке чтобы не потерять свой данные и синхронизировать их между устройствами.
-[<img src="https://img.youtube.com/vi/qtld4c_18xo/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/watch?v=qtld4c_18xo&t=2526)
+[<p align="center"><img src="https://img.youtube.com/vi/qtld4c_18xo/hqdefault.jpg" width="600" height="300"></p>](https://www.youtube.com/watch?v=qtld4c_18xo&t=2526)
